@@ -1,0 +1,6 @@
+{
+    "watch": ["sr"],
+    "ext": "js,json",
+    "ignore": ["node_modules", "public"]
+  }
+  
